@@ -1,0 +1,10 @@
+.admin-panel-navbar{
+    background-color: black;
+    color: white;
+    margin: 0 10px
+}
+#admin-panel-text{
+    font-size: 20px;
+    color: gray;
+    margin-top: 20px;
+}

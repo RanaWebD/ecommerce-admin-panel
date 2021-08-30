@@ -1,0 +1,68 @@
+hr {
+  width: 100%;
+}
+#admin-product-page-content-container {
+  margin-top: 50px;
+}
+#admin-product-delete-btn-container,
+#admin-product-update-btn-container {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+.admin-product-title {
+  font-size: 16px;
+}
+.admin-product-price {
+  font-size: 18px;
+}
+.variant-container {
+  display: flex;
+  flex-direction: column;
+}
+#variant-form {
+  margin: 20px 0;
+}
+.admin-color-container {
+  margin: 5px 0;
+}
+.admin-size-container {
+  display: flex;
+  margin: 5px 0;
+}
+.admin-product-description {
+  font-size: 12px;
+}
+.admin-product-description-title {
+  font-size: 14px;
+}
+.admin-specification-content {
+  display: flex;
+  justify-content: space-between;
+}
+.admin-specification-container{
+    display: flex;
+}
+.update-variant-btn,
+#admin-add-variant-btn,
+#admin-product-update-btn {
+  background-color: black;
+  color: white;
+}
+#variant-section {
+  /* border-top: 1px solid gray; */
+}
+.admin-variant-photos-container {
+  display: flex;
+}
+.admin-variant-update-delete-btn-container{
+  display: flex;
+  justify-content: space-between
+}
+#admin-add-variant-btn-container {
+  margin: 20px 0;
+}
+#admin-add-variant-btn {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,12 @@
+#categories-list-container{
+    margin-top: 50px
+}
+.categories-list-side-nav-btn{
+    background-color: black;
+    margin: 5px 0;
+    color: white
+}
+#categories-list-side-navbar-container{
+    display: flex;
+    flex-direction: column;
+}

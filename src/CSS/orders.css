@@ -1,0 +1,10 @@
+#orders-side-navbar-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+.orders-side-navbar-btn{
+    margin: 5px 0;
+    background-color: black;
+    color: white;
+}

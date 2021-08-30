@@ -1,0 +1,12 @@
+#genres-list-container{
+    margin-top: 50px
+}
+.genres-list-side-nav-btn{
+    background-color: black;
+    margin: 5px 0;
+    color: white
+}
+#genres-list-side-navbar-container{
+    display: flex;
+    flex-direction: column;
+}

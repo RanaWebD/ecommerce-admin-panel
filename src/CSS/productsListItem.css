@@ -1,0 +1,11 @@
+.productListItemCard:hover {
+  border: 1px solid whitesmoke;
+  box-shadow: 2.5px 2.5px 1px whitesmoke;
+}
+.product-list-title {
+  font-size: 12px;
+}
+.product-price-text {
+  font-size: 14px;
+  font-weight: 500;
+}

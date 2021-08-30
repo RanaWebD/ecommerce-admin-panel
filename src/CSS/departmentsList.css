@@ -1,0 +1,12 @@
+#department-list-container{
+    margin-top: 50px
+}
+.departments-list-side-nav-btn{
+    background-color: black;
+    margin: 5px 0;
+    color: white
+}
+#department-list-side-navbar-container{
+    display: flex;
+    flex-direction: column;
+}
